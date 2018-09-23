@@ -31,8 +31,9 @@
 .initial{padding: 10px 10px;padding-left:30px;}
 .initial2{padding: 10px 10px;padding-left:30px;}
 .bigTitle{font-size:36px; color:#F60;font-weight:bold;}
-.name{font-size:20px; font-weight:bold;}
-.midTitle{font-size:24px; color: #6C0;font-weight:bold;}
+.name{font-size:28px; font-weight:bold;}
+.maininfo{text-align: center;}
+.midTitle{font-size:24px; color: #000;font-weight:bold;}
 .smallTitle{font-weight:bold;}
 .miniTitle{font-style: oblique ;}
 
