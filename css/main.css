@@ -37,8 +37,24 @@
 .smallTitle{font-weight:bold;}
 .miniTitle{font-style: oblique ;}
 
+.buttondiv{
+		margin: 100px auto；
 
+	width:600px;
+	height: 40px
 
+}
+
+#smallbutton{
+	font-size:18px; 
+	font-weight:bold;
+	color: white;
+	background-color: black;
+
+	width:600px;
+	height: 40px
+
+}
 
 
 
@@ -74,3 +90,5 @@
 .videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
 #videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
 .videoplayerbox li{float:left; width:560px; color:#F60;font-size:30px; text-align:center; display:block;font-weight:bold;margin-left:35px;}
+
+
