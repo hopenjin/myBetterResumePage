@@ -39,6 +39,17 @@
 
 
 
+	
+#smallbutton{
+	font-size:18px; 
+	font-weight:bold;
+	color: white;
+	background-color: black;
+
+	width:600px;
+	height: 40px
+
+}
 
 
 
