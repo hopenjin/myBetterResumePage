@@ -22,7 +22,7 @@
 .maininfo a:link, .maininfo a:visited{color:#000; text-decoration:none;}
 .maininfo a:hover,.maininfo a:active{ color:#09F; text-decoration:none;font-weight:bold;}
 .fr{float: right; display:block; padding-right: 20px;}
-
+.fl{float: left}
 
 .mainbody{width:980px; margin-top:5px;margin-left:auto;margin-right:auto; border:#fff 2px solid; }
 .mainbody2{width:1005px; margin:5px auto; height:160px; }
@@ -39,7 +39,6 @@
 
 
 
-	
 #smallbutton{
 	font-size:18px; 
 	font-weight:bold;
@@ -84,4 +83,6 @@
 <!--videoplayer-->
 .videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
 #videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
-.videoplayerbox li{float:left; width:560px; color:#F60;font-size:30px; text-align:center; display:block;font-weight:bold;margin-left:35px;}
+.videoplayerbox li{ color:#09F;font-size:30px; text-align:center; display:block;font-weight:bold;margin-left:35px;}
+
+
