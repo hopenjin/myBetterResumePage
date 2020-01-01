@@ -53,13 +53,6 @@
 
 
 
-
-
-<!--底部效果-->
-
-
-
-
 .bottom{width:100%; height:500px;background:#CCC;}
 .box1{width:33.3%; height:100px;float: left; background:#CCC;}
 .box2{width:33.3%; height:100px;float: left; }
@@ -70,19 +63,17 @@
 
 
 
-
-<!--音乐播放器-->
-#skPlayer{ float:left;}
-@media screen and (max-width:768px){body{ width:100%;}.doc{display:none;} }
-.musicbox{float:left;margin-left:130px;margin-top:5px;}
-.musicbox li{color:#F60;font-size:30px;text-align:center;font-weight:bold;}
-
-
-
-
 <!--videoplayer-->
 .videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
 #videoplayer{float:left; margin-top:10px; margin-bottom:30px; margin-left:35px;}
 .videoplayerbox li{ color:#09F;font-size:30px; text-align:center; display:block;font-weight:bold;margin-left:35px;}
 
+.PS{font-size:24px; text-align:center;}
 .thankyou{font-size:36px; font-weight:bold;text-align:center;}
+
+.RED{color:#DB4437;}
+.YELLOW{color:#F4B400;}
+.GREEN{color:#0F9D58;}
+.BLUE{color:#4285F4;}
+
+
